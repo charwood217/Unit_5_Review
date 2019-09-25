@@ -78,7 +78,7 @@ column size*/
 div.specials{
    min-height: 400px;
    outline-width: 1px;
-   outline-style: solid;
+   outline-style: dashed;
    outline-color: rgb(71,52,29);
 }
 /* set the min height and made an outline
